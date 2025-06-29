@@ -1,6 +1,6 @@
 #MesaKit
 
-MesaKit is a fictional table reservation app for a restaurant, designed to enhance user experience by making table booking simple, responsive, and visually appealing.
+MesaKit is a fictional table reservation interface for a restaurant, designed to enhance user experience by making table booking simple, responsive, and visually appealing.
 
   It features:
 
