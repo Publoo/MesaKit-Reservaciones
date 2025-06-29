@@ -14,6 +14,13 @@ MesaKit is a fictional table reservation app for a restaurant, designed to enhan
 
 This front-end UI was built using React, Material UI, CSS Grid, custom styling, and Git/GitHub for version control.
 
+![image](https://github.com/user-attachments/assets/7dec56ac-54c5-4aec-9665-16124cb4bae2)
+
+
+
+
+
+
 
 Clone the repo:
 ```bash
